@@ -1,0 +1,175 @@
+@font-face{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+}
+            /* Header Section Start Here */
+header{
+    background-color: #0c367b;
+}
+.navbar-brand img{
+    width: 250px;
+}
+.nav-text a{
+    font-family: 'Poppins';
+    font-weight: bold;
+}
+            /* Header Section End Here */
+
+            /* Banner CSS Start Here */
+.banner{
+    background-color: #0c367b;
+    padding-bottom: 100px;
+}
+.text{
+    margin-top: 100px;
+}
+.text h1{
+    font-family: 'Lato light';
+    font-size: 22px;
+    margin: 10px;
+}
+.text h2{
+    font-family: 'Poppins';
+    font-weight: bold;
+}
+.text p{
+    font-family: 'Lato';
+    font-size: 22px;
+    font-weight: bold;
+    margin: 10px;
+}
+.web{
+    font-size: 40px;
+    font-weight: bold;
+    padding: 20px;
+}
+.text a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    background-color: #ffcf00;
+    padding: 10px 70px;
+    border-radius: 20px;
+    font-size: 25px;
+    font-family: 'Poppins';
+}
+.freelancer{
+    width: 200px;
+    float: right;
+}
+            /* Banner CSS End Here */
+
+            /* Feature CSS Start Here */
+
+.title h1{
+    font-family: 'Poppins';
+    font-weight: bold;
+}
+.title p{
+    font-family: 'PT Sans';
+}
+.fa-tablet-alt{
+    font-size: 70px;
+}
+.fa-layer-group{
+    font-size: 70px;
+}
+.fa-font-awesome-flag{
+    font-size: 70px;
+}
+.fa-code{
+    font-size: 70px;
+}
+.fa-envelope-open-text{
+    font-size: 70px;
+}
+.fa-download{
+    font-size: 70px;
+}
+.feature{
+    font-family: 'Lato';
+}
+            /* Feature CSS End Here */
+
+            /* Subscribe CSS Start here */
+
+.subscribe{
+    background-color: #242424;
+}
+.sub-text h2{
+    font-family: 'Lato';
+    font-weight: bold;
+    color: #3363b7;
+    padding-top: 80px;
+    font-size: 40px;
+}
+.sub-text p{
+    font-family: 'PT Sans';
+    color: #898989;
+    margin-bottom: 40px;
+}
+.input-text a{
+    background-color: #3462b7;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.input-text input{
+    width:70%;
+    height: 50px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+.btn{
+    color: white;
+    background-color: #3462b7 !important;
+    padding: 12px 30px;
+    border-radius: 10px;
+}
+.list{
+    padding: 10px;
+}
+.fa-facebook-square{
+    font-size: 50px;
+    color: #3462b7;
+}
+.fa-twitter-square{
+    font-size: 50px;
+    color: #3462b7;
+}
+.fa-google-plus-square{
+    font-size: 50px;
+    color: #3462b7;
+}
+.fa-pinterest-square{
+    font-size: 50px;
+    color: #3462b7;
+}
+
+            /* Subscribe CSS End here */
+
+            /* Footer CSS Start Here */
+
+.footer{
+    background-color: #242424;
+    font-family: 'PT Sans';
+}
+.examples a{
+    text-decoration: none;
+    color: white;
+}
+.address{
+    margin-left: 100px;
+}
+.address h3{
+    font-size: 20px;
+}
+.contact a{
+    text-decoration: none;
+    color: white;
+}
+
+            /* Footer CSS End Here */
+
